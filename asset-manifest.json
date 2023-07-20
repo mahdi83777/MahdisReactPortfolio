@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/MahdisReactPortfolio/static/css/main.04bf0e71.css",
+    "main.js": "/MahdisReactPortfolio/static/js/main.f0114466.js",
+    "static/js/787.a2cb61a6.chunk.js": "/MahdisReactPortfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/househunter.png": "/MahdisReactPortfolio/static/media/househunter.1d81148932cefd506fb4.png",
+    "static/media/virtualreality.png": "/MahdisReactPortfolio/static/media/virtualreality.d65c822bd0d4135763c5.png",
+    "static/media/ecommerce.gif": "/MahdisReactPortfolio/static/media/ecommerce.437ce5630d2ff14a82f1.gif",
+    "static/media/notetaker.gif": "/MahdisReactPortfolio/static/media/notetaker.c747a2ec7e59e6b87986.gif",
+    "static/media/5330558.jpg": "/MahdisReactPortfolio/static/media/5330558.100910fd80e5b3c1e2e8.jpg",
+    "static/media/socialnetwork.png": "/MahdisReactPortfolio/static/media/socialnetwork.07a9466a0eeff57709da.png",
+    "static/media/workday.png": "/MahdisReactPortfolio/static/media/workday.3dda5ea6d10343261a20.png",
+    "static/media/weather.png": "/MahdisReactPortfolio/static/media/weather.69f2bd00beda92a570be.png",
+    "static/media/Mahdi_El-Harake_Resume.pdf": "/MahdisReactPortfolio/static/media/Mahdi_El-Harake_Resume.0c3efaea4f6efd6e4ae5.pdf",
+    "static/media/techblog.png": "/MahdisReactPortfolio/static/media/techblog.699409c0a314baedacfd.png",
+    "static/media/Mahdi.jpg": "/MahdisReactPortfolio/static/media/Mahdi.60ad6f71b0750623a05a.jpg",
+    "static/media/employeetracker.png": "/MahdisReactPortfolio/static/media/employeetracker.635fc837a76eec11d29d.png",
+    "static/media/readme.png": "/MahdisReactPortfolio/static/media/readme.653de02fc57b2ba95880.png",
+    "static/media/codingquiz.png": "/MahdisReactPortfolio/static/media/codingquiz.1d2c5587017399495d0d.png",
+    "static/media/buildings.png": "/MahdisReactPortfolio/static/media/buildings.7a12148fe4f1f586c9a9.png",
+    "static/media/password.png": "/MahdisReactPortfolio/static/media/password.2dbd9d0ec9d37be15397.png",
+    "static/media/texteditor.png": "/MahdisReactPortfolio/static/media/texteditor.defe23d33d93be69021b.png",
+    "index.html": "/MahdisReactPortfolio/index.html",
+    "main.04bf0e71.css.map": "/MahdisReactPortfolio/static/css/main.04bf0e71.css.map",
+    "main.f0114466.js.map": "/MahdisReactPortfolio/static/js/main.f0114466.js.map",
+    "787.a2cb61a6.chunk.js.map": "/MahdisReactPortfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04bf0e71.css",
+    "static/js/main.f0114466.js"
+  ]
+}
