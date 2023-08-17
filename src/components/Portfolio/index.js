@@ -14,6 +14,7 @@ import techblog from "../../assets/small/techblog.png";
 import ecommerce from "../../assets/small/ecommerce.gif";
 import weather from "../../assets/small/weather.png";
 import workday from "../../assets/small/workday.png";
+import budgetwise from "../../assets/small/budgetwise.png";
 
 function Portfolio() {
   return (
@@ -64,6 +65,31 @@ function Portfolio() {
               <p>
               This application is a weather dashboard that will display the current weather for the searched city as well as the forecast for the next five days. 
               It will also store in local storage and in searched history the past search results.{" "}
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div className="job">
+          <div className="job-info">
+            <div className="job-img">
+              <a href="https://afternoon-tundra-66898-d64f284645ec.herokuapp.com/">
+                {" "}
+                <img
+                  src={budgetwise}
+                  className="my-2"
+                  style={{ width: "100%" }}
+                  alt="BudgetWise"
+                />
+              </a>
+            </div>
+            <div className="job-text">
+              <h4>Budget Wise</h4>
+              <p>
+              An online web application that allows users to track their finances. 
+              This includes, income, expenses, budgetting, and more! 
+              This application was developed using the MERN stack. 
+              Our app also has a donation page integrated with Stripe.{" "}
               </p>
             </div>
           </div>
